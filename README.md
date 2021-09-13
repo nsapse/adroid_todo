@@ -18,17 +18,12 @@ The following **required** functionality is completed:
 
 * [ ] User can **tap a todo item in the list and bring up an edit screen for the todo item** and then have any changes to the text reflected in the todo list
 
-    The following **additional** features are implemented:
-
-* [ ] List anything else that you can get done to improve the app functionality!
-
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+![Video Demo](./simple_TODO.gif)
+GIF created with [PEEK](http://www.cockos.com/licecap/).
 
 ## Notes
 Editing functionality will be added when time permits

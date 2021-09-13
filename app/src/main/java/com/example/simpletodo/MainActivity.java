@@ -103,7 +103,7 @@ public class MainActivity extends AppCompatActivity {
         try {
             FileUtils.writeLines(getDataFile(), items);
         } catch (IOException e) {
-            Log.e("MainActivity", "Error Writing Items", e);
+
         }
     }
 
